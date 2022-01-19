@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Adv Python,APIs,Haskell,Rust,React 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
+
           Twitter  : https://twitter.com/vedant2040
           Linkedin : https://www.linkedin.com/in/vedantdev-katyayan-1302571b6/
           Github   : https://github.com//vedantk2040
